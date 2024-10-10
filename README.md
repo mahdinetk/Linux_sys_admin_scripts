@@ -24,11 +24,11 @@ after executing this script it asks you the path of target directory each timel
    
 ```bash
    git clone https://github.com/mahdinetk/Linux_sys_admin_scripts.git
-  
+  ```
 2. Make the scripts executable:
    
 ```bash
    chmod +x backup.sh log-monitor.sh folder-permission.sh
-  
+  ```
 
 3. Run the scripts with the appropriate arguments.
